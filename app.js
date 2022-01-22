@@ -4,5 +4,5 @@
 // sudo npm install -g <pkg>
 //npm init->pkg.json
 //npm init -y(every thing default
-// devDependencies nodemon only during development
-console.log('parth')
+// devDependencies nodemon only during development auto restart
+console.log('parth sharma')
