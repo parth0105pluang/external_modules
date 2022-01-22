@@ -1,0 +1,23 @@
+{
+  "name": "external_pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth0105pluang/external_modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parth0105pluang/external_modules/issues"
+  },
+  "homepage": "https://github.com/parth0105pluang/external_modules#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
